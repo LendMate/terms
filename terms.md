@@ -33,7 +33,7 @@ Lendmate has not reviewed, and cannot review, all of the material, posted to Len
 ## Content Posted on Other Websites
 We have not reviewed, and cannot review, all of the material, including computer software, made available through the websites and webpages to which Lendmate links, and that link to Lendmate. Lendmate does not have any control over those websites and webpages, and is not responsible for their contents or their use. By linking to a non-Lendmate website or webpage, Lendmate does not represent or imply that it endorses such website or webpage. You are responsible for taking precautions as necessary to protect yourself and your computer systems from viruses, worms, Trojan horses, and other harmful or destructive content. Lendmate disclaims any responsibility for any harm resulting from your use of non-Lendmate websites and webpages.
 
-## Copyright Infringement and DMCA Policy
+## Copyright Infringement
 As Lendmate asks others to respect its intellectual property rights, it respects the intellectual property rights of others. If you believe that material located on or linked to by Lendmate violates your copyright, you are encouraged to notify Lendmate. Lendmate will respond to all such notices, including as required or appropriate by removing the infringing material or disabling all links to the infringing material. Lendmate will terminate a visitor’s access to and use of Lendmate if, under appropriate circumstances, the visitor is determined to be a repeat infringer of the copyrights or other intellectual property rights of Lendmate or others.
 
 ## Intellectual Property
