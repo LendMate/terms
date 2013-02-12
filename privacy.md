@@ -5,9 +5,11 @@
 * We don’t store personal information on our servers unless required for the on-going operation of our service.
 * We aim to make it as simple as possible for you to control what’s visible to the public, seen by search engines, kept private, and permanently deleted.
 
-Below is our privacy policy which incorporates these goals: (Note, this is derived from the [Automattic creative commons privacy policy](http://automattic.com/privacy/).
+Below is our privacy policy which incorporates these goals.
 
-If you have questions about deleting or correcting your personal data please contact our [support team](mailto:hi@lendmate.com).
+Note: *This is derived from the [Automattic creative commons privacy policy](http://automattic.com/privacy/).*
+
+If you have questions about deleting or correcting your personal data please [contact us](/contact).
 
 It is Lendmate’s policy to respect your privacy regarding any information we may collect while operating our websites.
 

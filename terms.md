@@ -1,8 +1,7 @@
 ## The gist:
-We (the folks at Lendmate) run Lendmate and would love for you to use it. Our service is free and is designed to give you as much control and ownership over what goes on your site as possible and encourage you to express yourself freely. However, be responsible in what you publish. In particular, make sure that none of the prohibited items listed below appear on your site or get linked to from your site (things like spam, viruses, or hate content).
+We (the folks at Lendmate) run Lendmate, a free service, and would love for you to use it.
 
-
-(Note, this is derived from the [Automattic creative commons terms and conditions](http://en.wordpress/tos/).)
+Note: *This is derived from the [Automattic creative commons terms and conditions](http://en.wordpress/tos/).*
 
 ## Terms of Service
 The following terms and conditions govern all use of Lendmate and all content, services and products available at or through Lendmate. Lendmate is owned and operated by Neutron Creations. Lendmate is offered subject to your acceptance without modification of all of the terms and conditions contained herein and all other operating rules, policies (including, without limitation, Lendmate’s [Privacy Policy](/privacy)) and procedures that may be published from time to time by Lendmate (collectively, the “Agreement”).
